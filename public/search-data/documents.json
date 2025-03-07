@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "/manuales/manual-fresadora-milko-35",
+    "title": "Manual Fresadora Milko‑35",
+    "description": "Manual completo para la operación y mantenimiento de la Fresadora Milko‑35.",
+    "content": "Este manual ofrece una guía detallada para la operación, mantenimiento y solución de problemas de la Fresadora Milko‑35. Consulta el manual completo haciendo clic en el siguiente enlace:\n\n[Ver Manual Completo](https://energia.azc.uam.mx/images/PDF/Manuales/Manual-Fresadora_Milko-35_Parte1.pdf)\n"
+  },
+  {
+    "slug": "/manuales/torno-cnc-martinrea-5000",
+    "title": "Manual Torno CNC Martinrea 5000",
+    "description": "Manual completo para la operación y mantenimiento del Torno CNC Martinrea 5000.",
+    "content": "Este manual proporciona instrucciones precisas para la instalación, configuración y operación del Torno CNC Martinrea 5000, ideal para piezas de alta precisión. Puedes acceder al manual completo en el siguiente enlace:\n\n[Ver Manual Completo](https://example.com/manuals/torno-cnc-martinrea-5000.pdf)\n"
+  },
+  {
+    "slug": "/manuales/prensa-hidraulica-martinrea-2000",
+    "title": "Manual Prensa Hidráulica Martinrea 2000",
+    "description": "Manual completo para la operación y mantenimiento de la Prensa Hidráulica Martinrea 2000.",
+    "content": "Este documento detalla el procedimiento de instalación, configuración y mantenimiento preventivo de la Prensa Hidráulica Martinrea 2000, asegurando un funcionamiento seguro y eficiente. Consulta el manual completo haciendo clic en el enlace:\n\n[Ver Manual Completo](https://example.com/manuals/prensa-hidraulica-martinrea-2000.pdf)\n"
+  },
+  {
+    "slug": "/manuales/cizalla-industrial-martinrea-ci100",
+    "title": "Manual Cizalla Industrial Martinrea CI‑100",
+    "description": "Manual completo para la operación y mantenimiento de la Cizalla Industrial Martinrea CI‑100.",
+    "content": "Este manual ofrece toda la información técnica necesaria para la operación segura y el mantenimiento adecuado de la Cizalla Industrial Martinrea CI‑100. Accede al manual completo desde el siguiente enlace:\n\n[Ver Manual Completo](https://example.com/manuals/cizalla-industrial-martinrea-ci100.pdf)\n"
+  },
+  {
+    "slug": "/manuales/laminadora-martinrea-l300",
+    "title": "Manual Laminadora Martinrea L‑300",
+    "description": "Manual completo para la operación y mantenimiento de la Laminadora Martinrea L‑300.",
+    "content": "Este manual proporciona directrices detalladas para la instalación, configuración y mantenimiento de la Laminadora Martinrea L‑300, garantizando una operación óptima en entornos industriales. Consulta el manual completo haciendo clic en el siguiente enlace:\n\n[Ver Manual Completo](https://example.com/manuals/laminadora-martinrea-l300.pdf)\n"
+  }
+]
